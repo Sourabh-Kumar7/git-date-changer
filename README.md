@@ -24,7 +24,7 @@ git clone https://github.com/Sourabh-Kumar7/git-date-changer.git
 cd git-date-changer
 ```
 ```
-sudo bash ../main.sh "Your commit message" "23092023 142946"
+sudo bash commit_back.sh "Your commit message" "DDMMYYYY HHMMSS"
 ```
 
 ### 2. By making this functionality a command in your environment
