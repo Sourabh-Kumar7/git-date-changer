@@ -60,7 +60,7 @@ mygitcommit "Your commit message" "DDMMYYYY HHMMSS"
 ##
 `
 If you like it, Please give a star.
-Feel free to add more such trick functionalties.
+Feel free to add more tricks to it.
 `
 
 
